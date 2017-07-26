@@ -1,4 +1,4 @@
-# Wallmart sales
+# Walmart sales
 
 See [index.ipynb](index.ipynb) for a description of the notebooks.
 
